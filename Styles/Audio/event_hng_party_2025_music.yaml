@@ -1,0 +1,8 @@
+events:
+  - id: event_hng_party_2025_music_6
+    venue: "hng_party"
+    volume: "%USER_PREFERENCE%"
+
+  - id: event_hng_party_2025_music_7
+    venue: "hng_party"
+    volume: "%USER_PREFERENCE%"
