@@ -1,0 +1,2 @@
+texture0 - nitroware_logo
+158 158 0 0 0
